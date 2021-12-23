@@ -1,2 +1,1 @@
-# Front-Tools-Library
-前端工具库集合
+## 获取随机布尔值（True/False）
